@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Khan-Ramsha
 - 👀 I’m interested in web development and machine learning both.
 - 🌱 I’m currently learning Data structures and algorithms 
-- 
-- 
+
 
 
 <!---
