@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Tech Enthusiast 💻 Turning Ideas into Innovation!✨</h3>
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
-  🖥️ " a DSA learner, I'm actively exploring the world of Data Structures and Algorithms to enhance my programming skills.✨
+- 🖥️ As a DSA learner, I'm actively exploring the world of Data Structures and Algorithms to enhance my programming skills.✨
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/geekyramsha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="geekyramsha" height="30" width="40" /></a>
