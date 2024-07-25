@@ -1,4 +1,4 @@
-![Header](./header.png)
+![Header](./header-img.png)
 
 
 - 🌱 I’m currently learning **Deep Learning**
