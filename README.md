@@ -1,4 +1,4 @@
- ![Header](./headerimage.png)
+ ![Header](./github-header-image.png)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=khan-ramsha&theme=onedark&title=-Followers)](https://github.com/khan-ramsha/github-profile-trophy)
 
