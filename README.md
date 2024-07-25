@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ramsha Khan</h1>
-<h3 align="center">Passionate Tech Enthusiast 💻 Turning Ideas into Innovation!✨</h3>
+![Header](./your-header-image-name.png)
+
 
 - 🌱 I’m currently learning **Deep Learning**
 - 🖥️ As a DSA learner, I'm actively exploring the world of **Data Structures and Algorithms** to enhance my programming skills.✨
