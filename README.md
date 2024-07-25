@@ -1,6 +1,5 @@
 ![Header](./header-img.png)
 
-
 - 🌱 I’m currently learning **Deep Learning**
 - 🖥️ As a DSA learner, I'm actively exploring the world of **Data Structures and Algorithms** to enhance my programming skills.✨
 <h3 align="left">Connect with me:</h3>
