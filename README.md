@@ -1,6 +1,5 @@
 ![Header](./header-img.png)
 
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khan-ramsha" alt="khan-ramsha" /></a> </p>
 
 - 🌱 I’m currently learning **Neural Networks (Deep Learning)**
