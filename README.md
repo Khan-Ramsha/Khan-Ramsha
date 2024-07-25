@@ -25,8 +25,8 @@
   <!-- Add other icons here -->
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khan-ramsha&show_icons=true&locale=en&layout=compact" alt="khan-ramsha" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khan-ramsha&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=false" alt="khan-ramsha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khan-ramsha&show_icons=true&locale=en" alt="khan-ramsha" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khan-ramsha&show_icons=true&locale=en&theme=radical&hide_border=false" alt="khan-ramsha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khan-ramsha&" alt="khan-ramsha" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khan-ramsha&theme=radical&hide_border=false" alt="khan-ramsha" /></p>
