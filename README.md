@@ -1,4 +1,4 @@
-![Header](./github-header.png)
+![Header](./header.png)
 
 
 - 🌱 I’m currently learning **Deep Learning**
