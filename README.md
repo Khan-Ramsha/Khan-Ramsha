@@ -1,6 +1,6 @@
 ![Header](./header-img.png)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=khan-ramsha&theme=onedark)](https://github.com/khan-ramsha/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=khan-ramsha&theme=onedark&title=-Followers)](https://github.com/khan-ramsha/github-profile-trophy)
 
 - 🌱 I’m currently learning **Neural Networks (Deep Learning)**
 - 💬 Ask me about **Data Science**
