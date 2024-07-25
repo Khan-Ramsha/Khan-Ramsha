@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](C:\Users\hp\Documents\Ramsha's Resume\github-header.png)
 
 
 - 🌱 I’m currently learning **Deep Learning**
