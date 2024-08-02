@@ -1,6 +1,6 @@
  ![Header](./github-header-image.png)
  
-<h1><strong>🏆 GitHub Trophies</strong></h1>
+<h2><strong>🏆 GitHub Trophies</strong></h2>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=khan-ramsha&theme=onedark&title=-Followers)](https://github.com/khan-ramsha/github-profile-trophy)
