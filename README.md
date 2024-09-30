@@ -8,8 +8,11 @@
 <h2><strong>⚡ About Me</strong></h2>
 
 - 🌱 I’m currently learning **Neural Networks (Deep Learning)**
-- 💬 Ask me about **Data Science**
+  
+- 💬 Ask me about **Machine Learning, Data Science**
+  
 - 📫 How to reach me **khanramsha302020@gmail.com**
+  
 - 📄 Know about my experiences [https://ramshakhan-resume.tiiny.site/](https://ramshakhan-resume.tiiny.site/)
   
 <h2><strong>🌐 Socials</strong></h2>
