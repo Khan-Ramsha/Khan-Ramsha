@@ -1,7 +1,7 @@
 <img src="./image.webp" alt="Header" width="730" height="330" style="display: block; margin: 0 auto;">
-<p align="center">
-  <h1 style="font-size: 1000px; font-weight: bold;">Hello 👋, I'm Ramsha Khan</h1>
-</p>
+<h1 align="center">Hi 👋, I'm Ramsha Khan</h1>
+<h3 align="center">A passionate AI/ML Developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khan-ramsha&label=Profile%20views&color=0e75b6&style=flat" alt="khan-ramsha" /> </p>
 
