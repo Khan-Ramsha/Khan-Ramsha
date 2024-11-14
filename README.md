@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://via.placeholder.com/1x1" width="1" height="1" />
-  <strong>Hi 👋, I'm Ramsha Khan</strong>
+  <h1><strong>Hi 👋, I'm Ramsha Khan</strong></h1>
 </p>
 
 <h3><strong>🏆 GitHub Trophies</strong></h3>
