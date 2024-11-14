@@ -1,7 +1,7 @@
 <img src="./image.webp" alt="Header" width="730" height="330" style="display: block; margin: 0 auto;">
 
 <p align="center">
-   <strong style="font-size: 55px;">Hi 👋, I'm Ramsha Khan</strong>
+   <strong style="font-size: 55%;">Hi 👋, I'm Ramsha Khan</strong>
 </p>
 
 <h3><strong>🏆 GitHub Trophies</strong></h3>
