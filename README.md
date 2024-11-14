@@ -1,4 +1,4 @@
-<img width="323" alt="{16AD3CF4-B064-468E-ADC0-410BC94B9BBA}" src="https://github.com/user-attachments/assets/6babe044-5f03-429d-9470-2e1256455514">
+<img src="./image.webp" alt="Header" width="300" height="150">
  
 <h3><strong>🏆 GitHub Trophies</strong></h3>
 
