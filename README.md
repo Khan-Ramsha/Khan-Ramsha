@@ -1,8 +1,11 @@
 <img src="./image.webp" alt="Header" width="730" height="330" style="display: block; margin: 0 auto;">
 
-<p align="center">
-   <strong style="font-size: 55px;">Hi 👋, I'm Ramsha Khan</strong>
-</p>
+<table style="width: 100%; text-align: center;">
+  <tr>
+    <td><h1 style="font-size: 50px;">Hi 👋, I'm Ramsha Khan</h1></td>
+  </tr>
+</table>
+
 <h3><strong>🏆 GitHub Trophies</strong></h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=khan-ramsha&theme=onedark&title=-Followers)](https://github.com/khan-ramsha/github-profile-trophy)
