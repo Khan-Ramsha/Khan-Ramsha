@@ -1,4 +1,4 @@
-<img src="./image.webp" alt="Header" width="300" height="150">
+<img src="./image.webp" alt="Header" width="550" height="300">
  
 <h3><strong>🏆 GitHub Trophies</strong></h3>
 
