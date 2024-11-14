@@ -2,11 +2,6 @@
 <p align="center">
   <h1 style="font-size: 1000px; font-weight: bold;">Hello 👋, I'm Ramsha Khan</h1>
 </p>
-
-<h3><strong>🏆 GitHub Trophies</strong></h3>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=khan-ramsha&theme=onedark&title=-Followers)](https://github.com/khan-ramsha/github-profile-trophy)
-
 <h3><strong>⚡ About Me</strong></h3>
 
 - 🌱 I’m currently learning **Neural Networks (Deep Learning)**
