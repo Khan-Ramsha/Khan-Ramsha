@@ -13,7 +13,7 @@
   
 - 📫 How to reach me **khanramsha302020@gmail.com**
   
-- 📄 Know about my experiences [https://ramshakhan-resume.tiiny.site/](https://ramshakhan-resume.tiiny.site/)
+- 📄 Know about my experiences [https://ramsha-khan-resume.tiiny.site](https://ramsha-khan-resume.tiiny.site)
   
 <h3><strong>🌐 Socials</strong></h3>
 
