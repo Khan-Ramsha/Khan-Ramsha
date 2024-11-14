@@ -1,4 +1,4 @@
- ![Header](./github-header-image.png)
+ ![Header](./image.webp)
  
 <h3><strong>🏆 GitHub Trophies</strong></h3>
 
