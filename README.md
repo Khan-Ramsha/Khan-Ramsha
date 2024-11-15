@@ -1,4 +1,4 @@
-<img src="./image.webp" alt="Header" width="880" height="400" style="display: block; margin: 0 auto;border-radius: 15px 50px 30px 50px; overflow: hidden;">
+<img src="./image.webp" alt="Header" width="880" height="400" style="display: block; margin: 0 auto; border-radius: 50px; overflow: hidden;">
 <h1 align="center">Hi 👋, I'm Ramsha Khan</h1>
 <h3 align="center">A passionate AI/ML Developer from India</h3>
 
