@@ -7,7 +7,7 @@
 
 <h3><strong>⚡ About Me</strong></h3>
 
-- 🌱 I’m currently learning **Neural Networks (Deep Learning)**
+- 🌱 I’m currently learning **Generative AI**
   
 - 💬 Ask me about **Machine Learning, Data Science**
   
