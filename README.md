@@ -12,9 +12,7 @@
 - 💬 Ask me about **Machine Learning, Data Science**
   
 - 📫 How to reach me **khanramsha302020@gmail.com**
-  
-- 📄 Know about my experiences [https://ramsha-khan-resume.tiiny.site](https://ramsha-khan-resume.tiiny.site)
-  
+    
 <h3><strong>🌐 Socials</strong></h3>
 
 <p align="left">
