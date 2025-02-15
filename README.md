@@ -1,4 +1,4 @@
-<img src="./image.webp" alt="Header" width="880" height="380" style="display: block; margin: 0 auto;">
+<img src="./Gif.gif" alt="Header" width="880" height="380" style="display: block; margin: 0 auto;">
 <h1 align="center">Hi 👋, I'm Ramsha Khan</h1>
 <h3 align="center">A passionate AI/ML Developer from India</h3>
 
