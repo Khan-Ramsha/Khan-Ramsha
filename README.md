@@ -1,4 +1,4 @@
-<h3><strong> AI fascinates me!! </strong></h3>
+## AI fascinates me!! 
 ### A curious head obsessed with ML/DL — Learning, Building and Solving meaningful problems
 
 <h3><strong>Socials</strong></h3>
