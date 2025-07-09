@@ -1,7 +1,7 @@
-## AI fascinates me!! 
-### A curious head obsessed with ML/DL — Learning, Building and Solving meaningful problems
+### AI fascinates me!! 
+#### A curious head obsessed with ML/DL — Learning, Building and Solving meaningful problems
 
-<h3><strong>Socials</strong></h3>
+### Socials
 
 <p align="left">
  <a href="https://linkedin.com/in/kramsha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kramsha" height="30" width="40" /></a>
